@@ -10,3 +10,7 @@
 - Professora de programação e Game Design :video_game:
 
 - [Site](http://tatyanecalixto.com.br/) 💻 - Mais informações e projetos.
+- 
+### Skills
+
+[![Available on itch.io] https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
