@@ -9,7 +9,7 @@
 - Dev :computer:
 - Professora de programação e Game Design :video_game:
 
-- [Site](http://tatyanecalixto.com.br/) 💻 - Mais informações e projetos.
+
 ### Skills
 
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
