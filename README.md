@@ -5,7 +5,7 @@
 
 
 ### Sobre mim
-- Doutoranda :mortar_board:
+- Doutora em Ciência da Computação :mortar_board:
 - Dev :computer:
 - Professora de programação e Game Design :video_game:
 
