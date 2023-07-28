@@ -7,7 +7,7 @@
 ### Sobre mim
 - Doutora em Ciência da Computação :mortar_board:
 - Dev :computer:
-- Professora de Programação e Game Design :video_game:
+- Professora 👩‍💻
 
 
 ### Hard Skills
