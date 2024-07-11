@@ -5,9 +5,10 @@
 
 
 ### Sobre mim
-- Doutora em Ciência da Computação :mortar_board:
-- Dev :computer:
-- Professora 👩‍💻
+- Doutora em Ciência da Computação 🖥️
+- Desenvolvedora 💻
+- Professora 👩‍🏫
+- Consultora Educacional :mortar_board:
 
 
 ### Hard Skills
